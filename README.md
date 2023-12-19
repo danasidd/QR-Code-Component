@@ -11,6 +11,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 
 ## Overview
+![screenshot](https://github.com/danasidd/QR-Code-Component/assets/113601804/ef4349d1-6320-44d4-bc6c-d8aadf424abb)
+
 
 ### Links
 - Live Site URL: (https://qr-code-component-liart-eight.vercel.app/)
