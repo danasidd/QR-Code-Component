@@ -9,11 +9,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
-- 
+
 ## Overview
 
 ### Links
-- Live Site URL: [Add live site URL here](https://qr-code-component-liart-eight.vercel.app/)
+- Live Site URL: (https://qr-code-component-liart-eight.vercel.app/)
 
 ## My process
 
@@ -30,6 +30,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Add your name here](Dana AlSiddig)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/danasidd)
-- LinkedIn - [@yourusername](https://www.linkedin.com/in/dana-alsiddig-03a86723a/)
+- LinkedIn - [Dana AlSiddig](https://www.linkedin.com/in/dana-alsiddig-03a86723a/)
+- Frontend Mentor - [@Dana-AlSiddig](https://www.frontendmentor.io/profile/danasidd)
